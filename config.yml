@@ -1,0 +1,20 @@
+mail:
+    host: '127.0.0.1'
+    user: ''
+    pass: ''
+    port: '25'
+    type: 'smtp'
+    subject: 'IP Alert - '
+    to:
+        - "test@test.com"
+        - "testing@test.com"
+        - "tester@test.com"
+    from : 'alert@localhost'
+ips:
+    - "8.8.8.8"
+    - "8.8.4.4"
+    - "127.0.0.1"
+    - "1.1.1.1"
+app:
+    frequency: '5'
+    
