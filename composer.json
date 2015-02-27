@@ -1,0 +1,16 @@
+{
+    "name": "zvps/satint-ping-monitor",
+    "description": "Description of project satint-ping-monitor.",
+    "authors": [
+        {
+            "name": "Kevin Andrews",
+            "email": "kevin@zvps.uk"
+        }
+    ],
+    "require": {
+        "geerlingguy/ping": "1.x-dev",
+        "symfony/yaml": "v2.6.4",
+        "apache/log4php": "dev-master",
+        "zendframework/zend-mail": "2.3.4"
+    }
+}
