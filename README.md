@@ -26,6 +26,6 @@ To run in the background:
 
 ## Notes
 
-Pull requests are very welcome, however it may take some time for us to test and accept them.
+Pull requests are very welcome, it may take time for us to test and accept them.
 
 This library was put together very quickly so may contain unexpected functionality (bugs), please raise issues if you find any!
