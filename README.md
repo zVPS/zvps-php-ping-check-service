@@ -23,3 +23,9 @@ To stop:
 To run in the background:
 
 `nohup php index.php &`
+
+## Notes
+
+Pull requests are very welcome, however it may take some time for us to test and accept them.
+
+This library was put together very quickly so may contain unexpected functionality (bugs), please raise issues if you find any!
