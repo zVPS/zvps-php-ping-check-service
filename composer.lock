@@ -4,15 +4,21 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ae8fa414debc4eb7dd82d376104d274b",
+    "hash": "6d8e095cffff758a4214c1e9695e20b8",
     "packages": [
         {
             "name": "apache/log4php",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://git-wip-us.apache.org/repos/asf/logging-log4php.git",
+                "url": "https://github.com/apache/logging-log4php.git",
                 "reference": "ae4116e491d46170378c39c8c861a0153a957f5b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/apache/logging-log4php/zipball/ae4116e491d46170378c39c8c861a0153a957f5b",
+                "reference": "ae4116e491d46170378c39c8c861a0153a957f5b",
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.2.7"
@@ -23,7 +29,6 @@
                     "src/main/php/"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "Apache-2.0"
             ],
@@ -34,6 +39,11 @@
                 "logging",
                 "php"
             ],
+            "support": {
+                "issues": "https://issues.apache.org/jira/browse/LOG4PHP",
+                "source": "https://svn.apache.org/repos/asf/logging/log4php",
+                "email": "log4php-user@logging.apache.org"
+            },
             "time": "2013-06-07 17:49:39"
         },
         {
