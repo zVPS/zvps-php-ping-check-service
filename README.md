@@ -8,6 +8,8 @@ Very simple to setup using the `config.yml` which includes configurations for SM
 
 Application logs messages inside the `log/` folder. Logs rotate on a daily basis and may need a cleanup script added.
 
+Install dependencies with `composer install` - https://getcomposer.org/
+
 ## Running
 
 Should run on most linux servers with PHP installed (may need additional php-* packages - please submit an issue if you find required packages).
