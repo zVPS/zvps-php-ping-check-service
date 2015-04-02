@@ -12,5 +12,11 @@
         "symfony/yaml": "v2.6.4",
         "apache/log4php": "dev-master",
         "zendframework/zend-mail": "2.3.4"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/apache/logging-log4php"
+        }
+    ]
 }
